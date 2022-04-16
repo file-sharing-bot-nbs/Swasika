@@ -5,7 +5,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ATHIF-EFX/Swasika">
+<a href="https://heroku.com/deploy?template=https://github.com/file-sharing-bot-nbs/Swasika">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
